@@ -97,3 +97,11 @@ For queries or collaboration, feel free to reach out!
 📧: mahakprajapati24@gmail.com  
 Instagram: **mahakk_24**
 
+## Features
+- Flask-based web application
+- Bootstrap responsive navbar
+- Meme videos with hover-to-play functionality
+- Videos served via Flask static files
+- Download option for meme videos
+
+
