@@ -85,8 +85,10 @@ http://127.0.0.1:5000/
 
 ---
 
-## 📷 Screenshots (optional)
-You can add screenshots later to show how the UI looks.
+## 📷 Screenshots 
+<img width="1533" height="834" alt="image" src="https://github.com/user-attachments/assets/515109b6-399b-4d08-af1a-56bfc8bde85b" />
+<img width="1548" height="837" alt="image" src="https://github.com/user-attachments/assets/eb145221-c1f5-4bb8-8e7d-c0d1b8c979b0" />
+<img width="1558" height="843" alt="image" src="https://github.com/user-attachments/assets/edd8a52c-9d5a-4bfd-902f-6546b712fd77" />
 
 ---
 
